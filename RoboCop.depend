@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1555002381 source:c:\users\youse\onedrive\desktop\amit\robocop\initializationofparts.c
+	<stdio.h>
+	<stdlib.h>
+	"Robo.h"
+
+1555003012 c:\users\youse\onedrive\desktop\amit\robocop\robo.h
+	"utility.h"
+	"macros.h"
+	"Parts.h"
+	"Motors.h"
+	"Initialization.h"
+	"State.h"
+
+1555010775 c:\users\youse\onedrive\desktop\amit\robocop\macros.h
+
+1555012606 c:\users\youse\onedrive\desktop\amit\robocop\parts.h
+
+1555009877 c:\users\youse\onedrive\desktop\amit\robocop\initialization.h
+
+1555009921 source:c:\users\youse\onedrive\desktop\amit\robocop\motors.c
+	<stdio.h>
+	<stdlib.h>
+	"Robo.h"
+
+1554838693 c:\users\youse\onedrive\desktop\amit\robocop\utility.h
+
+1555012754 c:\users\youse\onedrive\desktop\amit\robocop\motors.h
+
+1555003004 c:\users\youse\onedrive\desktop\amit\robocop\state.h
+
+1555012787 source:c:\users\youse\onedrive\desktop\amit\robocop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Robo.h"
+
+1555003361 source:c:\users\youse\onedrive\desktop\amit\robocop\display.c
+	<stdio.h>
+	<stdlib.h>
+	"Robo.h"
+
+1555012712 source:c:\users\youse\onedrive\desktop\amit\robocop\movements.c
+	<stdio.h>
+	<stdlib.h>
+	"Robo.h"
+
